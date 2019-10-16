@@ -1,0 +1,145 @@
+.hr-1-basic{
+    position: absolute;
+    top: 97%;
+    z-index: 99;
+    height: 4px;
+    width: 44%;
+    background-color: aqua;
+    border-bottom: dotted;
+}
+
+.hr-2-basic{
+   position: absolute;
+   top: 127%;
+   z-index: 13px;
+   height: 4px;
+   width: 67%;
+   background-color: aqua;
+   border-bottom: dotted;
+}
+.hr-3-basic{
+   position: absolute;
+   top: 153%;
+   z-index: 13px;
+   height: 4px;
+   width: 67%;
+   background-color: aqua;
+   border-bottom: dotted;
+}
+.hr-4-basic{
+   position: absolute;
+   top: 182%;
+   z-index: 13px;
+   height: 4px;
+   width: 27%;
+   background-color: aqua;
+   border-bottom: dotted;
+}
+.hr-5-basic{position: absolute;top: 211%;z-index: 13px;height: 4px;width: 49%;background-color: aqua;border-bottom: dotted;}
+.div-1-main{
+    position: absolute;
+    top: 72%;
+    background-color: #0d0d0d;
+    height: 43%;
+
+}
+.div-2-main{
+    position: absolute;
+    top: 115%;
+    background-color: black;
+    height: 46%;
+}
+.div-3-main{
+     position: absolute;
+     top: 139%;
+     background-color: black;
+     height: 46%;
+}
+.div-4-main{
+ position: absolute;
+ top: 163%;
+ background-color: black;
+ height: 46%;
+}
+.div-5-main{
+     position: absolute;
+     top: 193%;
+     background-color: black;
+     height: 46%;
+}
+.div-6-main{
+     position: absolute;
+     top: 214%;
+     background-color: black;
+     height: 42%;
+}
+.h2-1-main{
+  color: cyan;
+    font-family: 'Grenze', serif;
+    position: relative;
+    height: inherit;
+    top: 13%;
+    left: 2%;
+}
+.h2-2-main{
+     position: relative;
+     height: inherit;
+     color: cyan;
+     font-family: 'Grenze', serif;
+     left: 2%;
+     top: -17%;
+}
+.h2-3-main{
+    position: relative;
+    height: inherit;
+    color: cyan;
+    font-family: 'Grenze', serif;
+    left: 2%;
+    top: -7%; 
+}
+.h2-4-main{
+    color: cyan;
+    font-family: 'Grenze', serif;
+    left: 2%;
+    position: relative;
+}
+.h2-5-main{
+    poo: re;
+    color: cyan;
+    font-family: 'Grenze', serif;
+    left: 2%;
+    position: relative;
+}
+.h2-6-main{
+  color: cyan;
+    font-family: 'Grenze', serif;
+    position: relative;
+    height: inherit;
+    top: 13%;
+    left: 2%;
+}
+.p-1-main{color: #fff;position:relative;top: -17%;}
+.p-2-main{
+    color: #fff;
+    position: relative;
+    top: -49%;
+}.p-3-main{
+    color: #fff;
+    position: relative;
+    top: -57%;
+}
+.p-4-main{
+    color: #fff;
+    position: relative;
+    top: -14%;
+}
+.p-5-main{
+   color: #fff;
+   position: relative;
+   top: 0%;
+}
+.p-6-main{
+  color: #fff;
+  position: relative;
+  top: -16%;
+}

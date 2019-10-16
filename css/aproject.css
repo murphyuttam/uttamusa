@@ -1,0 +1,87 @@
+.main-div{
+	position: absolute;
+	top: 33%;
+	left: 42%;
+
+}
+h3{
+	text-align: justify;
+	font-family: monospace;
+	font-style: italic;
+	font-size: larger;
+	word-break: break-word;
+}
+h1{
+	font-family: 'Domine', serif;
+   display: inline-block;
+	position: relative;
+	left: 42%;
+	top: 33px;
+
+}
+.second-div p{
+	font-family: 'Cinzel', serif;
+	word-spacing: 3px;
+	letter-spacing: 1px;
+	display: inline-block;
+	position: relative;
+	left: 1%;
+	top: -45px;
+	margin: 0% 21%;
+}
+.main-sec{
+	position: absolute;
+	top: 33%;
+	left: 41%;
+	display: block;
+	position: absolute;
+
+}
+.second-div{
+position: absolute;
+top: 33%; 	 
+}
+.tertiary-section{
+
+         position: absolute;
+    top: 64%;
+    left: 0%;
+    display: inline-flex;
+}
+.project-tools{
+      font-family: 'Domine', serif;
+    display: inline-block;
+    position: absolute;
+    left: 37%;
+    top: 43px;
+}
+.div-1-of-10{
+	width: auto;
+	position: relative;
+	top: -18%;
+	left: 129%;
+}
+.div-2-of-10{
+	position: relative;
+	top: -38%;
+	left: 248%;
+}
+.div-3-of-10{
+	position: relative;
+	top: -59%;
+	left: 363%;
+}
+.div-4-of-10{
+	position: relative;
+	top: -79%;
+	left: 477%;
+}
+.div-1-of-5{
+	
+    position: relative;
+    top: 2%;
+    left: 13%;
+	}
+.forth-section{
+	width: 100%;
+}
